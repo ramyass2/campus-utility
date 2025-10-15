@@ -1,2 +1,2 @@
-# campus-utility
-A role-based web application for campus management and digital services.  🔹 Features: User authentication, student/faculty/admin dashboards, responsive UI.  🔹 Tech Stack: Flask, SQLite3, HTML, CSS, JavaScript.  
+# campus-utility services
+A web/mobile application that streamlines campus services such as maintenance requests, resource booking, and notifications. Improves efficiency and accessibility for students, faculty, and staff.
